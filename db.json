@@ -1,0 +1,52 @@
+{
+  "studentDetails": [
+    {
+      "regNumber": "2",
+      "firstName": "delight",
+      "lastName": "dziva",
+      "level": "4",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "regNumber": "3",
+      "firstName": "waty",
+      "lastName": "dziva",
+      "level": "1",
+      "gender": "female",
+      "id": 3
+    },
+    {
+      "regNumber": "4",
+      "firstName": "perfect",
+      "lastName": "shava",
+      "level": "2",
+      "gender": "male",
+      "id": 4
+    },
+    {
+      "regNumber": "4",
+      "firstName": "rudo",
+      "lastName": "mperi",
+      "level": "2",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "regNumber": "4",
+      "firstName": "john",
+      "lastName": "muyoo",
+      "level": "2",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "regNumber": "4",
+      "firstName": "boom",
+      "lastName": "boom",
+      "level": "2",
+      "gender": "female",
+      "id": 7
+    }
+  ]
+}
